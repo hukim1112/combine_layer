@@ -1,6 +1,4 @@
 import os
-from psd_tools import PSDImage
-import psd_tools
 import pytoshop
 from pytoshop.user import nested_layers
 
